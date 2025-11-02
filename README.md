@@ -6,7 +6,5 @@
 
 🏠 我的博客：[github.page](https://xBitBetter.github.io/)
 
-![xBitBetter公众号](https://xbitbetter.github.io/assets/xbitbetter.png "xBitBetter公众号")
-
 ⚡ 如果你有什么想和我交流的，欢迎关注xBitBetter公众号 💬
 
